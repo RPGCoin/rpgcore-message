@@ -1,0 +1,29 @@
+{
+  "name": "rpgcore-message",
+  "main": "./rpgcore-message.min.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/RPGCoin/rpgcore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "RPGcoin Message Verification and Signing for rpgcore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "rpgcoin",
+    "rpgcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

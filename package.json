@@ -1,0 +1,37 @@
+{
+  "name": "rpgcore-message",
+  "version": "1.0.3",
+  "description": "RPGcoin Messages for RPGcore",
+  "author": "Silence <silence@rpgcoin.gg>",
+  "main": "index.js",
+  "scripts": {
+    "lint": "gulp lint",
+    "test": "gulp test:node",
+    "coverage": "gulp coverage",
+    "build": "gulp"
+  },
+  "keywords": [
+    "rpgcoin",
+    "rpgcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RPGCoin/rpgcore-message.git"
+  },
+  "dependencies": {
+    "rpgcore-lib": "rpgcore-lib"
+  },
+  "peerDependencies": {
+  },
+  "devDependencies": {
+    "rpgcore-build": "rpgcore-build",
+    "brfs": "^1.3.0",
+    "chai": "~1.10.0",
+    "gulp": "^3.8.10"
+  },
+  "license": "MIT"
+}
