@@ -1,7 +1,7 @@
 {
   "name": "rpgcore-message",
   "main": "./rpgcore-message.min.js",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "homepage": "https://github.com/RPGCoin/rpgcore-message",
   "authors": [
     "BitPay"

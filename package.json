@@ -1,6 +1,6 @@
 {
   "name": "rpgcore-message",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "RPGcoin Messages for RPGcore",
   "author": "Silence <silence@rpgcoin.gg>",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "url": "https://github.com/RPGCoin/rpgcore-message.git"
   },
   "dependencies": {
-    "rpgcore-lib": "rpgcore-lib"
+    "rpgcore-lib": "1.0.3"
   },
   "peerDependencies": {
   },
